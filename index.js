@@ -1,6 +1,6 @@
 const preset = () => ({
     plugins: [
-        require('babel-plugin-transform-inline-imports-commonjs')
+        require('@babel/plugin-transform-modules-commonjs')
     ]
 });
 
