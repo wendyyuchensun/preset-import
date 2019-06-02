@@ -1,0 +1,22 @@
+{
+  "name": "preset-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendyyuchensun/preset-import.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendyyuchensun/preset-import/issues"
+  },
+  "homepage": "https://github.com/wendyyuchensun/preset-import#readme",
+  "dependencies": {
+    "babel-plugin-transform-inline-imports-commonjs": "^1.2.0"
+  }
+}
